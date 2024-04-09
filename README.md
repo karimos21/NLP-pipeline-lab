@@ -15,7 +15,7 @@ This project aims to explore Arabic text scraping from web sources and implement
 
 
 ## Setup
-1. Clone the repository:  'git clone https://github.com/karimos21/arabic-text-nlp.git'
+1. Clone the repository:  'git clone https://github.com/karimos21/NLP-pipeline-lab.git'
 2. Install the required dependencies:  `pip install -r requirements.txt`
 
 
